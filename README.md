@@ -67,5 +67,3 @@ shiny::runApp("app.R")
 - Newman AM, et al. Robust enumeration of cell subsets from tissue expression profiles (CIBERSORT). *Nat Methods*. 2015;12(5):453-457.
 - Sturm G, et al. Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology (immunedeconv). *Bioinformatics*. 2019;35(14):i436-i445.
 - Cancer Genome Atlas Network. Comprehensive molecular portraits of human breast tumours. *Nature*. 2012;490(7418):61-70. Data from the [TCGA Research Network](https://www.cancer.gov/tcga).
-
-See the **Method notes** tab in the app for the full list of method citations.
