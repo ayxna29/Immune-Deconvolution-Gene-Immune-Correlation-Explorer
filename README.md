@@ -69,7 +69,3 @@ shiny::runApp("app.R")
 - Cancer Genome Atlas Network. Comprehensive molecular portraits of human breast tumours. *Nature*. 2012;490(7418):61-70. Data from the [TCGA Research Network](https://www.cancer.gov/tcga).
 
 See the **Method notes** tab in the app for the full list of method citations.
-
-## License
-
-Add your license of choice here.
